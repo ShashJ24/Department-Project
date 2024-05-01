@@ -1,1 +1,1 @@
-This directory contains c++ codes for LeNet model.
+This directory contains c++ codes for LeNet and VGG16 model.
